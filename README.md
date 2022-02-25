@@ -23,7 +23,5 @@ Skills: JS / React / React Native / HTML / CSS / VUE JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RookieLim)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://drive.google.com/uc?id=1Rs5oYMZppR9z1XW4pcmPVRUFbIT_cdY9' alt='github' height='40'>](https://github.com/RookieLim)  
+[<img src='https://drive.google.com/uc?1pt6I3itmKli4t86bkB-9WSYBHToKemIB' alt='github' height='40'>](https://github.com/RookieLim)  
 
-
- 
