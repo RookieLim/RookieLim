@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is RookieLim
 #### Frontend Development
 
-![Frontend Development](https://drive.google.com/uc?id=1Rs5oYMZppR9z1XW4pcmPVRUFbIT_cdY9)
+<img src="https://user-images.githubusercontent.com/85553325/155725730-60d4a92c-4c1d-4f2a-8116-262c38262351.jpg" width="550px" height="230px">
 
 I'm Korean from south korea, and I do website on Programming and Development.
 I really enjoy learning Frontend Web languages and frameworks like 
@@ -23,5 +23,6 @@ Skills: JS / React / React Native / HTML / CSS / VUE JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RookieLim)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://drive.google.com/uc?id=1pt6I3itmKli4t86bkB-9WSYBHToKemIB' alt='github' height='40'>](https://github.com/RookieLim)  
+<img src="https://user-images.githubusercontent.com/85553325/155725792-ac9e06df-119b-4547-b825-219d3ef56c6c.jpg" width="500px" height="500px">
+ 
 
