@@ -1,4 +1,4 @@
-### Hi there 👋, my name is RookieLim
+### Hi there 👋, My name is RookieLim
 #### Frontend Development
 
 ![Frontend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
