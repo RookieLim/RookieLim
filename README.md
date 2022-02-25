@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is RookieLim
 #### Frontend Development
 
-![Frontend Development](https://drive.google.com/uc?id=1WYAKl1cBX-ZF_UxeXEChl2zIBkbs_jkC)
+![Frontend Development](https://drive.google.com/uc?id=1Rs5oYMZppR9z1XW4pcmPVRUFbIT_cdY9)
 
 I'm Korean from south korea, and I do website on Programming and Development.
 I really enjoy learning Frontend Web languages and frameworks like 
