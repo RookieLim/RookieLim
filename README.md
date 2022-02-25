@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is RookieLim
 #### Frontend Development
 
-![Frontend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Development](https://drive.google.com/uc?id=1WYAKl1cBX-ZF_UxeXEChl2zIBkbs_jkC)
 
 I'm Korean from south korea, and I do website on Programming and Development.
 I really enjoy learning Frontend Web languages and frameworks like 
