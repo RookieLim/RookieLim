@@ -17,8 +17,8 @@ Portfolio
 
 Skills: JS / React / React Native / HTML / CSS / VUE JS
 
-- 🔭 I’m currently working on http://timco.dothome.co.kr/ 
-- 🌱 I’m currently learning React Native and Vanilla JS 
+- 🔭 I’m currently working on Wheather App and Todo-List.
+- 🌱 I’m currently learning React Native and Vanilla JS. 
 - 👯 I’m looking to collaborate on Amazing Team. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RookieLim)](https://github.com/anuraghazra/github-readme-stats)
