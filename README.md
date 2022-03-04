@@ -17,7 +17,7 @@ Portfolio
 4)https://expo.dev/@rookielim/rookietodo
 5)https://expo.dev/@rookielim/rookieweather
 
-Skills: JS / React / React Native / HTML / CSS / VUE JS
+Skills: JS / React / React Native / HTML / CSS
 
 - 🔭 I’m currently working on Wheather App and Todo-List.
 - 🌱 I’m currently learning React Native and Vanilla JS. 
