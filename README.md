@@ -9,11 +9,9 @@ React and React Native, as well as Javascript.
 I also enjoy UI,UX and design in general.
 
 Portfolio
-1)http://bookmoim.shop/
-2)http://timco.dothome.co.kr/
-3)https://deokdam.spartacodingclub.kr/wBCS4QMpihAm/index.html
-4)https://expo.dev/@rookielim/rookietodo
-5)https://expo.dev/@rookielim/rookieweather
+1)https://deokdam.spartacodingclub.kr/wBCS4QMpihAm/index.html
+2)https://expo.dev/@rookielim/rookietodo
+3)https://expo.dev/@rookielim/rookieweather
 
 Skills: JS / React / React Native / HTML / CSS
 
