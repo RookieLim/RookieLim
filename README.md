@@ -8,8 +8,6 @@ I really enjoy learning Frontend Web languages and frameworks like
 React and React Native, as well as Javascript.
 I also enjoy UI,UX and design in general.
 
-You can check out my Blog at https://developrookie.tistory.com/.
-
 Portfolio
 1)http://bookmoim.shop/
 2)http://timco.dothome.co.kr/
